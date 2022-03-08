@@ -22,8 +22,8 @@ _G.ElementTextColor = Color3.fromRGB(180, 180, 180)
 _G.ElementThemeColor = Color3.fromRGB(39, 86, 144)
 --end
 local VARIABLESMADEBYTHISUI = {
-    [" Made By "] = "Sanda#9197",
-    [" New Editable Gui Support Mobile Updated By "] = "Sanda#9197"
+    [" Made By "] = "x2Andssyz",
+    [" New Editable Gui Support Mobile Updated By "] = "pompomesluke"
 }
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
